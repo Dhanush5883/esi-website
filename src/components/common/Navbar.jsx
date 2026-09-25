@@ -331,7 +331,7 @@ const Navbar = () => {
             </Link>
             <div className=" border-b border-neutral-100 pb-4">
               <div className="py-2 text-lg font-semibold text-esi-primary">
-                Platforms
+                Platform
               </div>
               <Link
                 to="/product"
@@ -357,7 +357,7 @@ const Navbar = () => {
             </div>
             <div className=" border-b border-neutral-100 pb-4">
               <div className="py-2 text-lg font-semibold text-esi-primary">
-                Solutions
+                AI Acceleration
               </div>
               <Link
                 to="/solutions/ai-talent-transformation-strategy"

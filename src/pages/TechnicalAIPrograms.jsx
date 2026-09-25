@@ -100,7 +100,7 @@ const usps = [
 
 const TechnicalAIPrograms = () => {
   return (
-    <div className="container mx-auto py-32">
+    <div className="container mx-auto px-4 py-32">
       <div className="max-w-5xl mx-auto text-center mb-20 mt-20">
         <div className="inline-flex items-center gap-2 px-5 py-2 mb-8 rounded-full bg-[#1569a9]/5 border border-[#1569a9]/20">
           <BookOpen className="h-5 w-5 text-esi-primary" />
